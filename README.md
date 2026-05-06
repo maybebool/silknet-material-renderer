@@ -9,7 +9,7 @@
 [![Silk.NET](https://img.shields.io/badge/Silk.NET-Low--Level_Bindings-FF6F61?style=flat-square)](https://github.com/dotnet/Silk.NET)
 [![GLSL](https://img.shields.io/badge/GLSL-Custom_Shaders-77B829?style=flat-square)](https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language)
 
-A low-level OpenGL rendering engine built with Silk.NET, demonstrating manual GPU resource management for various material types through custom textures, shaders, and mesh pipelines — bypassing high-level abstractions to directly manage the full vertex processing stage.
+A low-level OpenGL rendering engine built with Silk.NET, demonstrating manual GPU resource management for various material types through custom textures, shaders, and mesh pipelines, bypassing high-level abstractions to directly manage the full vertex processing stage.
 
 ## Objective
 
